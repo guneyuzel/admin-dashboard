@@ -1,4 +1,5 @@
 # admin-dashboard
 
+Admin dashboard template created with HTML and CSS.
 
-## _[Live Demo](https://guneyuzel.github.io/admin-dashboard/)_
+[Live Demo](https://guneyuzel.github.io/admin-dashboard/) :point_left:
