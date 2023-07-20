@@ -1,4 +1,4 @@
-# admin-dashboard
+# Admin-Dashboard
 
 Admin dashboard template created with HTML and CSS.
 
